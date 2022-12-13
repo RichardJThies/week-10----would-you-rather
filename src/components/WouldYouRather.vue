@@ -38,6 +38,7 @@ export default {
 <style scoped>
 h3 {
   margin: 40px 0 0;
+  color: aqua;
 }
 .wyr {
   border: 3px red solid;
